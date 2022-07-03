@@ -1,0 +1,12 @@
+{
+  "providers": [
+    {
+      "type": "ttf",
+      "file": "kanit-regular.ttf",
+      "shift": [0, 0],
+      "size": 13.5,
+      "oversample": 7.7,
+      "skip": ""
+    }
+  ]
+}
