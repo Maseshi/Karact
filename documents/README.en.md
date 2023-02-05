@@ -9,8 +9,6 @@
     <img src="https://img.shields.io/github/license/Maseshi/Minecraft-Characters.svg?logo=github&style=for-the-badge">
 </div>
 
-[EN](https://github.com/Maseshi/Minecraft-Characters/blob/main/documents/README.en.md) | [TH](https://github.com/Maseshi/Minecraft-Characters/blob/main/documents/README.th.md) | [JA](https://github.com/Maseshi/Minecraft-Characters/blob/main/documents/README.ja.md)
-
 Make your Minecraft font look even better with the **Kanit** font (Java Edition only).
 
 ## Found a problem

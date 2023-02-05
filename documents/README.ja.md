@@ -11,12 +11,12 @@
 
 [EN](https://github.com/Maseshi/Minecraft-Characters/blob/main/documents/README.en.md) | [TH](https://github.com/Maseshi/Minecraft-Characters/blob/main/documents/README.th.md) | [JA](https://github.com/Maseshi/Minecraft-Characters/blob/main/documents/README.ja.md)
 
-Make your Minecraft font look even better with the **Kanit** font (Java Edition only).
+**Kanit** フォント (Java Edition のみ) を使用して、Minecraft フォントの見栄えをさらに良くします。
 
-## Found a problem
+## 問題が見つかりました
 
-If you encounter any problems from your current job You can let us know through the tab. [issue](https://github.com/Maseshi/Minecraft-Characters/issues) of this repository.
+現在の仕事で問題が発生した場合は、タブからお知らせください。 [issue](https://github.com/Maseshi/Minecraft-Characters/issues) のリポジトリです。
 
-## Google Translate
+## Google 翻訳
 
-The content of this document has been translated by the [Google Translate](https://translate.google.com/) service. We apologize for any errors.
+このドキュメントの内容は、[Google 翻訳](https://translate.google.com/) サービスによって翻訳されています。 エラーが発生した場合はお詫び申し上げます。

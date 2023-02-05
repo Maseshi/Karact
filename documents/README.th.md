@@ -11,12 +11,8 @@
 
 [EN](https://github.com/Maseshi/Minecraft-Characters/blob/main/documents/README.en.md) | [TH](https://github.com/Maseshi/Minecraft-Characters/blob/main/documents/README.th.md) | [JA](https://github.com/Maseshi/Minecraft-Characters/blob/main/documents/README.ja.md)
 
-Make your Minecraft font look even better with the **Kanit** font (Java Edition only).
+ทำให้ฟอนต์ Minecraft ของคุณดูดียิ่งขึ้นด้วยฟอนต์ **Kanit** (เฉพาะรุ่น Java)
 
-## Found a problem
+## พบปัญหา
 
-If you encounter any problems from your current job You can let us know through the tab. [issue](https://github.com/Maseshi/Minecraft-Characters/issues) of this repository.
-
-## Google Translate
-
-The content of this document has been translated by the [Google Translate](https://translate.google.com/) service. We apologize for any errors.
+หากคุณพบปัญหาใดๆ จากการทำงานปัจจุบันของคุณ คุณสามารถแจ้งให้เราทราบได้ผ่านแท็บ [issue](https://github.com/Maseshi/Minecraft-Characters/issues) ของพื้นที่เก็บนี้ได้
